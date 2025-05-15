@@ -19,10 +19,10 @@ A simple Java console application to manage student grades using object-oriented
 
 ## 📁 Project Structure
 
-src/studentgradesmanager/
-├── StudentGradesManager.java   // Main UI and flow control
-├── Student.java                // Model for student + grade logic
-└── GradeManager.java           // Handles logic and coordination
+src/
+├── StudentGradesManager.java             // Main UI and workflow 
+├── Student.java                          // Model for student + grade logic 
+└── GradeManager.java                     // Handles logic and coordination
 
 
 ## ✍️ Author
