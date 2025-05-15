@@ -24,6 +24,7 @@ src/studentgradesmanager/
 ├── Student.java                // Model for student + grade logic
 └── GradeManager.java           // Handles logic and coordination
 
+
 ## ✍️ Author
 
 **Yalem Gebremariam**  
